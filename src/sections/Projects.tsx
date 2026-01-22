@@ -22,7 +22,7 @@ const portfolioProjects = [
       { title: "PHP,Javascript, Bootstrap, MySQL" },
     ],
     link: "https://ollyoevent.shreddedfitness.xyz/",
-    source: "https://github.com/mroy9090/Event-Management-System.git",
+    source: "https://github.com/mridulr172/-Event-Management-System.git",
     image: eventmanagement,
   },
   {
@@ -36,8 +36,8 @@ const portfolioProjects = [
       { title: "SEO optimization for site content" },
       { title: "PHP, Laravel, DOMPDF, Javascript, MySQL." },
     ],
-    link: "https://github.com/mroy9090/Tohoney-E-Commerce-Platform.git",
-    source: "https://github.com/mroy9090/Tohoney-E-Commerce-Platform.git",
+    link: "https://github.com/mridulr172/-Tohoney-E-Commerce-Platform.git",
+    source: "https://github.com/mridulr172/-Tohoney-E-Commerce-Platform.git",
     image: tohoney,
   },
   {
@@ -51,8 +51,8 @@ const portfolioProjects = [
       { title: "Automated Network Configuration" },
       { title: "Python, Django, Ansible, Vendors" },
     ],
-    link: "https://github.com/mroy9090/Developing-an-Integrated-Platform-for-Different-Network-Devices.git",
-    source: "https://github.com/mroy9090/Developing-an-Integrated-Platform-for-Different-Network-Devices.git",
+    link: "https://github.com/mridulr172/Developing-an-Integrated-Platform-for-Different-Network-Devices.git",
+    source: "https://github.com/mridulr172/Developing-an-Integrated-Platform-for-Different-Network-Devices.git",
     image: omniconnect,
   },
   {
@@ -67,7 +67,7 @@ const portfolioProjects = [
       { title: "PHP, Laravel, DOMPDF, MySQL,Laravel Breeze" },
     ],
     link: "https://shreddedfitness.xyz/",
-    source: "https://github.com/mroy9090/Shreded-Fitness.git",
+    source: "https://github.com/mridulr172/Shreded-Fitness.git",
     image: shredded,
   },
 ];
