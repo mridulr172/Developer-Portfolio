@@ -87,7 +87,7 @@ export const HeroSection = () => {
           </button>
           <button className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 p-6 h-12 rounded-xl">
             <span>✋</span>
-            <a href="https://drive.google.com/file/d/18gCYv_8zeS5ZyrU6R_uQoaRYONUokyIZ/view?usp=sharing" className="font-semibold">
+            <a href="https://drive.google.com/file/d/19dzQk02eSKh1P-0DfQomsrgT_EfgGR22/view?usp=sharing" className="font-semibold">
               Download Resume
             </a>
           </button>
